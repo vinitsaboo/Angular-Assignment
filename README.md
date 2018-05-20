@@ -1,5 +1,5 @@
 # Angular-Assignment #
-Angular Practice Assignment whcih will help to enhance your skills in angular and will help you to have basic flow and knowledge of angular. This application will be used for demo purpose about small news portal.
+Angular Practice Assignment whcih will help to enhance your skills in angular and will help you to have basic flow and knowledge of angular. This application is designed only for personal training purpose. Application is about small news portal.
 
 ### Following Features will be included in App ###
   * Listing in term of block type of different news.
